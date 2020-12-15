@@ -20,17 +20,16 @@ Complete type definitions are available on GitHub: https://github.com/dynasist/A
 
 ## Properties
 
-### **Syntax**
+### isWorkspaceScanned (Property)
+
+Indicates whether the initial workspace scanning has been finished.
+
+#### **Syntax**
 ```typescript
 isWorkspaceScanned: boolean;
 ```
 
-Indicates whether the initial workspace scanning has been finished.
-
-### **Syntax**
-```typescript
-onWorkspaceScanned: Function | undefined;
-```
+### onWorkspaceScanned (Property)
 
 Event fired when the initial workspace scanning is finished. You can subscribe to this event by assigning a simple function to it.
 
@@ -41,36 +40,43 @@ alStudioAPI.onWorkspaceScanned = () => {
 }
 ```
 
+#### **Syntax**
+```typescript
+onWorkspaceScanned: Function | undefined;
+```
+
 ## Methods
 
-### **Syntax**
-```typescript 
-getObjects(): Array<CollectorItemExternal>;
-```
+### getObjects (Method)
 
 Gets the complete set of objects collected from files and symbol packages. It containes Objects, EventPublishers and EventSubscribers as well.
 This list is automatically maintained by AL Studio, calling *getObjects()* will always return the latest, updated set.
 
-### **Syntax**
+#### **Syntax**
+```typescript 
+getObjects(): Array<CollectorItemExternal>;
+```
+
+### getALLanguageApiService (Method)
+
+Gets a simplified API reference for *AL Language Extension* itself.
+
+#### **Syntax**
 ```typescript
 getALLanguageApiService(): IALLanguageApiService;
 ```
 
-Gets a simplified API reference for *AL Language Extension* itself.
+### getSymbolUri (Method)
 
-### **Syntax**
+Gets generated preview URI for symbol objects. This can be used to manually show source code preview window of specific symbols.
+
+#### **Syntax**
 
 ```typescript
 getSymbolUri(type: ALObjectType, name: string, standardFormat: boolean = false): Uri | null;
 ```
 
-Gets generated preview URI for symbol objects. This can be used to manually show source code preview window of specific symbols.
-
-### **Syntax**
-
-```typescript
-getNextId(type: ALObjectType, projectNameOrFilePath: string): Promise<number>;
-```
+### getNextId (Method)
 
 Gets the next available object ID for the given object type in the specified Application name or file path. 
 `projectNameOrFilePath` can be an:
@@ -80,6 +86,12 @@ Gets the next available object ID for the given object type in the specified App
 4. Absolute filepath of the app.json file
 
 In latter case, the proper `app.json` will be implicitly search for.
+
+#### **Syntax**
+
+```typescript
+getNextId(type: ALObjectType, projectNameOrFilePath: string): Promise<number>;
+```
 
 ## Getting an AL Studio API reference in another VSCode extension:
 
