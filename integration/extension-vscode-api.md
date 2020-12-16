@@ -23,7 +23,7 @@ export interface IExternalAPIService {
 
 ### isWorkspaceScanned (Property)
 
-Indicates whether the initial workspace scanning has been finished.
+Indicates whether the initial workspace scanning is finished.
 
 #### **Syntax**
 ```typescript
