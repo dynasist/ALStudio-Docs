@@ -1,6 +1,6 @@
 # AL Studio for Business Central
 
-# [Get Started](index.md)
+## [Get Started](index.md)
 ## [Installation](introduction/installation.md)
 ## [Licensing](introduction/licensing.md)
 
