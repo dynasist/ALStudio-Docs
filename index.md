@@ -40,7 +40,7 @@ The following table outlines available navigation tools. Premium column indicate
 |-------|-------|-----------|
 |[Dashboard](navigation-tools/dashboard/dashboard-index.md)||Get a comperehensive overview of your workspace and navigate to objects or events.|
 |[Scopes (Bookmarks)](navigation-tools/scopes-bookmarks/scopes-bookmarks-index.md)||Create focused sets of objects, event publishers or subscribers using the object list on AL Home|
-|Documentation Browser||Access official Microsoft documentation in VSCode.|
+|[Documentation Browser](navigation-tools/documenation-browser/documenation-browser-index.md)||Access official Microsoft documentation in VSCode.|
 |[Basic Code Navigation](navigation-tools/code-navigation/code-navigation-index.md)||Search for objects, event publishers or subscribers, load Symbol source|
 |[Advanced Code Navigation](navigation-tools/code-navigation/code-navigation-index.md)|Yes|One-click object/method navigation in Visual tools.|
 |[Translation Overview](navigation-tools/translation-manager/translation-manager-index.md)|Yes|Matrix-like summary of all available XLF translations found in the workspace.|
