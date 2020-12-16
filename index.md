@@ -20,8 +20,8 @@ Learn more about installation, licensing and activation.
 
 |Link  |Description  |
 |---------|-------------|
-|[Installation]()|How-to install AL Studio.|
-|[Licensing]()|Information about licensing and product activation.|
+|[Installation](introduction/installation.md)|How-to install AL Studio.|
+|[Licensing](introduction/licensing.md)|Information about licensing and product activation.|
 
 ## Editions
 
