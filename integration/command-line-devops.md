@@ -1,10 +1,13 @@
-# Title
+# Command-line Interface
 
-text...
+Command line availability streamlines product activation and helps integrating documentation generation, transferfield validation into DevOps build process.
 
-## Sub Title
+## Features
 
-text
+-   Product activation
+-   Documentation generation
+
+![](https://raw.githubusercontent.com/dynasist/ALStudio/master/media/ALStudio_CLI.png)
 
 ## See Also
 

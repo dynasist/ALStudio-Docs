@@ -1,11 +1,25 @@
-# Title
+# Licensing
 
 text...
 
-## Sub Title
+## Community version
 
 text
 
+## Premium version
+
+text
+
+### Per-user plans
+
+text
+
+### Per-company plan
+
+text
 ## See Also
 
-[link](#link)
+[Official website](https://al.studio)
+
+[Pricing](https://al.studio/pricing)
+

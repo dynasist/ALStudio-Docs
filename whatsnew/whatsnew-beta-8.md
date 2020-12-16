@@ -1,11 +1,13 @@
-# Title
+# What's New in Beta-8
 
-text...
+Below you'll find an overview to what has been done on bug fixes and features in this update.
 
-## Sub Title
+## Enhancements
 
 text
 
+## Bug fixes
+
 ## See Also
 
-[link](#link)
+[Get Started](../index.md)

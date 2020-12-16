@@ -1,10 +1,14 @@
-# Title
+# Installation
 
 text...
 
-## Sub Title
+## Download from Marketplace
 
-text
+text...
+
+## Manual installation from VSIX package
+
+text...
 
 ## See Also
 
