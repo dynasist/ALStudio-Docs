@@ -4,7 +4,10 @@
 AL Studio has a public API that is available for other VSCode extension developers.
 This API is provided even in the Free version and can be re-used by free/opensource extensions free of charge, without purchasing license.
 
-Main API functions:
+## API Interface:
+
+Complete type definitions are available on GitHub: https://github.com/dynasist/ALStudio/blob/master/extension.d.ts
+
 ```typescript
 export interface IExternalAPIService {
     isWorkspaceScanned: boolean;
@@ -15,8 +18,6 @@ export interface IExternalAPIService {
     getALLanguageApiService(): IALLanguageApiService;
 }
 ```
-
-Complete type definitions are available on GitHub: https://github.com/dynasist/ALStudio/blob/master/extension.d.ts
 
 ## Properties
 
