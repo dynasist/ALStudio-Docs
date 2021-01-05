@@ -3,6 +3,7 @@
 ## [Get Started](index.md)
 ## [Installation](introduction/installation.md)
 ## [Licensing](introduction/licensing.md)
+### [End-User License Agreement](introduction/eula.md)
 
 # Navigation Tools
 ## [Dashboard](navigation-tools/dashboard/dashboard-overview.md)
