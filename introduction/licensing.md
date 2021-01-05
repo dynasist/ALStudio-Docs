@@ -18,7 +18,6 @@ This edition and its functionality requires registration and an active subscript
 
 `Ultimate` plan is licensed per company, meaning that a legal entity is covered by one license. There are no limitations in terms of number of users, nor number of devices.
 
-text
 ## See Also
 
 [Official website](https://al.studio)
