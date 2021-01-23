@@ -4,7 +4,7 @@
 ## [Installation](introduction/installation.md)
 ## [Licensing](introduction/licensing.md)
 ### [End-User License Agreement](introduction/eula.md)
-
+## [PopOut Mode](introduction/popout-mode.md)
 # Navigation Tools
 ## [Dashboard](navigation-tools/dashboard/dashboard-overview.md)
 ## [Scopes (Bookmarks)](navigation-tools/scopes-bookmarks/scopes-bookmarks-overview.md)

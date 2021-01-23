@@ -32,6 +32,13 @@ AL Studio is a premium extension with a free, community edition. Both edition ar
 |Community|Free|Available to everyone for free. No registration required.|
 |Premium  |[Pricing](https://al.studio/pricing)|Requires signup and a monthly/annual subscription to get valid license.|
 
+## PopOut Mode
+
+Pop-out mode allows you to use AL Studio features in Visual Studio Code and external browser windows at the same time. This provides a real multi-window experience for users having multiple monitors.
+
+Read more about [PopOut mode](introduction/popout-mode.md).
+
+
 ## Navigation Tools
 
 The following table outlines available navigation tools. Premium column indicates whether a feature requires subscription or not.
