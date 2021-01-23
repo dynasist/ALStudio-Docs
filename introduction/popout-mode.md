@@ -15,7 +15,7 @@ Settings are located under `Visual Studio Code / Gear Icon / Settings / Extensio
 |Table Fields Always External|Always open Table Fields in new window.|No|
 |Translations Always External|Always open Translation Manager in new window.|No|
 |Snapshots Always External|Always open AL Snapshots in new window.|No|
-|ObjectViews Always External|Always open Object Viewers/Editors in new window. E.g. Table/Page Editor, Codeunit Viewer.|No|
+|Object Views Always External|Always open Object Viewers/Editors in new window. E.g. Table/Page Editor, Codeunit Viewer.|No|
 
 ## Usage
 
@@ -25,7 +25,7 @@ By clicking on the button, either a new browser tab or a new window opens depend
 
 > Default behaviour on Windows systems is to open Microsoft Edge/Google Chrome in app mode. Should this fail, as a fallback method, a new browser tab will be opened using the default browser.
 
-When `* Always External` settings are set to `Yes`, the corresponsing screen will open in new window by default. 
+When `* Always External` settings are set to `Yes`, the corresponding screen will open in new window by default. 
 
 For example, calling `AL Search` command will open a new window outside of Visual Studio Code, and it will not be shown within Visual Studio Code as an internal editor tab.
 
@@ -52,10 +52,10 @@ Each supported screen can be used in a standalone window that is movable to seco
 You can open many page designs in separate windows to check layout or changes at the same time.
 
 ### Using multiple Unified Search / Table Field windows
-You can open multiple windows to search for by different criterias and keeping the results at hand.
+You can open multiple windows to search by different criteria and keep the results at hand.
 
 ## Limitations
-Some funcionality may work differently or may not yet be available in PopOut Mode. Funcionality depending on Visual Studio Code features are executed in the connected Visual Studio Code window.
+Some functionality may work differently or may not yet be available in PopOut Mode. Functionality depending on Visual Studio Code features are executed in the connected Visual Studio Code window.
 
 ## Unsupported Scenarios
 
