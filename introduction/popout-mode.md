@@ -27,7 +27,7 @@ By clicking on the button, either a new browser tab or a new window opens depend
 
 When `* Always External` settings are set to `Yes`, the corresponsing screen will open in new window by default. 
 
-For example, calling `AL Search` command will open a new window outside of Visual Studio Code but will not be shown within Visual Studio Code as an internal editor tab.
+For example, calling `AL Search` command will open a new window outside of Visual Studio Code, and it will not be shown within Visual Studio Code as an internal editor tab.
 
 ## Supported Screens
 
@@ -55,7 +55,7 @@ You can open many page designs in separate windows to check layout or changes at
 You can open multiple windows to search for by different criterias and keeping the results at hand.
 
 ## Limitations
-Some funcionality may work differently or may not be available in PopOut Mode. Funcionality depending on  Visual Studio Code features are executed in the connected Visual Studio Code window.
+Some funcionality may work differently or may not yet be available in PopOut Mode. Funcionality depending on Visual Studio Code features are executed in the connected Visual Studio Code window.
 
 ## Unsupported Scenarios
 
